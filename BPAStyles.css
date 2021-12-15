@@ -1,0 +1,63 @@
+.MissionClass {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Times New Roman", Times, serif;
+  width: 85%;
+  font-weight: bold;
+  height: fit-content;
+}
+.MissionClass2 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.4em;
+  width: 85%;
+  height: fit-content;
+}
+/* .NameClass {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2em;
+  margin-bottom: -2.3rem;
+  margin-top: 0;
+}
+.nav2 {
+  width: max-content;
+}
+.TipsClass {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2em;
+} */
+/* body header img {
+  height: ;
+} */
+.index-intro {
+  width: 100%;
+}
+.index-intro .jumbotron {
+  padding: 30px 40px;
+  margin: 0px;
+  background-image: url("../images/dumbstupidbannerforbpa.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+hr {
+  width: 82%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row-size-change {
+  height: auto;
+}
+iframe {
+  border: black 3px solid;
+  border-radius: 15px;
+}
+.br {
+  border: black 3px solid;
+  border-radius: 15px;
+}
